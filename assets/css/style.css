@@ -1,0 +1,14 @@
+.jumbotron {
+    background: navy;
+    font-family: 'Arial', 'Helvetica', 'sans-serif';
+    font-weight: bold;
+    color: white;
+}
+
+.foot {
+    color: white;
+    background: navy;
+    font-size: 12px;
+    text-align: center;
+    line-height: 25px;
+}
