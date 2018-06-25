@@ -1,4 +1,7 @@
 # week-4-game
+
+Deployed: https://yaliu8.github.io/week-4-game/
+
 Project Description (Crystal Collector):
 
    * There will be four crystals displayed as buttons on the page.
@@ -25,4 +28,4 @@ Dependencies
 - HTML
 - Bootstrap
 - CSS
--Javascript
+- Javascript
